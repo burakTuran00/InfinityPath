@@ -16,7 +16,7 @@ I made the FastAuto. I used the Unity Editor and C# for coding. I want to explai
 I made in a hour.
 
 
-To play via WebGL: https://sharemygame.com/@Poki/infinity-path
+To play via WebGL: https://sharemygame.com/@Poki/fastauto
 
 I've changed the name of the project. Therefore I added some kind of new things.
 
